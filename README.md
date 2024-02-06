@@ -19,8 +19,8 @@ The details provide the available models list and framework used in this tool:<b
 
 | | Name | Version|
 |-|-|-|
-| Training | Colossal-AI | >=0.3.3 |
-| Inference | TensorRT-LLM | / |
+| Training | [Colossal-AI](https://colossalai.org/) | >=0.3.3 |
+| Inference | [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) | / |
 <br>
 
 | Model-Name | Precision|
