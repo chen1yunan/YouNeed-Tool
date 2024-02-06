@@ -5,11 +5,11 @@ YouNeed-Tool : A tool to test GPUs (H100/H800/A100/A800/L40s/L40...) Flops runni
 
 ## Notice
 
-[Background] Due to the gap between products shown in the white book and actual performance. <br><br>
+**[Background]** Due to the gap between products shown in the white book and actual performance. <br><br>
 YouNeed-Tool aims to build a tool that helps users test their GPUs' true Flops performance. It can enable engineers to deeply understand the structural performance and **improve AI-HPC (High-performance computing) efficiency**.
 
 
-[Introdctuion] The tool will randomly update popular LLM models in Hugging Face, including varied precision testing (FP32, FP16, BF16...). For more details, refer to the 'Details' section in this document.
+**[Introdctuion]** The tool will randomly update popular LLM models in Hugging Face, including varied precision testing (FP32, FP16, BF16...). For more details, refer to the 'Details' section in this document.
 
 
 
