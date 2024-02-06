@@ -23,12 +23,12 @@ The details provide the available models list and framework used in this tool:<b
 | Inference | TensorRT-LLM | / |
 <br>
 
-| | Model-Name | Precision|
-|-|-|-|
-|  | Colossal-LLaMA-2-7B |  |
-|  | Colossal-LLaMA-2-13B |  |
-|  | LLaMA-2-7B |  |
-|  | LLaMA-2-13B |  |
+| Model-Name | Precision|
+|-|-|
+ Colossal-LLaMA-2-7B |  |
+|Colossal-LLaMA-2-13B |  |
+| LLaMA-2-7B |  |
+|  LLaMA-2-13B |  |
 
 ## Installation
 - PyTorch >= 1.11 and PyTorch <= 2.1
